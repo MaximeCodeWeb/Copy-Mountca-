@@ -1,0 +1,154 @@
+body
+{
+    background-color: #F0F0F0;
+}
+h1,h3
+{
+    font-family: 'Lato', sans-serif;
+    color: #373535;
+
+}
+h2
+{
+    color:#C0BFC3;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+.title-page 
+{
+    font-size: 40px;
+    position: absolute;
+    top: 65px;
+    left: 5%;
+    margin: 20px;
+}
+.box-1
+{
+    display: flex;
+    align-items: flex-start;
+    padding: 0px;
+    margin: 0px;
+    flex: auto;
+    position: absolute;
+    left: 300px;    
+    top: 80px;
+ 
+   
+
+}
+.item-nav
+{
+    margin-left:50px;
+}
+.item-nav-join
+{
+    margin-left:100px;
+    font-weight: bold;
+    
+}
+.bouton-watch
+{
+    position: absolute;
+    left: 80%;
+    top: 82px;
+    font-weight: bold;
+    
+}
+.main-picture
+{
+    position: absolute;
+    left: 50%;
+    top: 255px;
+}
+.article-1
+{
+    position: absolute;
+    top: 900px;
+    left: 15%;
+}
+.emoji-montagne
+{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 930px;
+    left: 10%;
+}
+
+.article-2
+{
+    position: absolute;
+    top: 1100px;
+    left: 15%;
+}
+.emoji-clap
+{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 1130px;
+    left: 10%;
+    z-index: 9 ;
+
+}
+.texte-main
+{
+    position: absolute;
+    top: 350px;
+    left: 15%;
+}
+.title-main
+{
+    font-size: 100px;
+    margin: 0px;
+}
+.texte-title-main
+{
+    margin: 15px;
+
+}
+.buton-download
+{
+    background-color:#FE8147;
+    width: 250px;
+    height: 60px;
+    border-radius: 30px;
+    position: absolute;
+    top: 700px;
+    left: 15%;
+    z-index: 2;
+    
+
+}
+.bouton-download-texte
+{
+    position: absolute;
+    top: 700px;
+    left: 18.3%;
+    z-index: 7;
+    color: white;
+}
+.seconde-texte-main
+{
+    position: absolute;
+    top: 690px;
+    left: 32%;
+    font-size: 23px;
+}
+.shape-art2 
+{
+    background-color:white;
+    width: 90px;
+    height: 90px;
+    border-radius: 100%;
+    position: absolute;
+    top: 1110px;
+    left: 165px;
+    z-index: 8;
+}
+.fin 
+{
+    position: absolute;
+    top: 1300px;
+    color: white;
+}
